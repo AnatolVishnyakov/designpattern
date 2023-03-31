@@ -1,7 +1,7 @@
-package ru.projects.vishnyakov.abstractfactory;
+package ru.vishnyakov.designpattern.creational.abstractfactory;
 
-import ru.projects.vishnyakov.abstractfactory.rus.RUSAddressFactory;
-import ru.projects.vishnyakov.abstractfactory.usa.USAddressFactory;
+import ru.vishnyakov.designpattern.creational.abstractfactory.rus.RUSAddressFactory;
+import ru.vishnyakov.designpattern.creational.abstractfactory.usa.USAddressFactory;
 
 public class Client {
     public static void main(String[] args) {

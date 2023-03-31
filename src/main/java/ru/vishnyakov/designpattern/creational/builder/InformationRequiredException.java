@@ -1,4 +1,4 @@
-package ru.projects.vishnyakov.builder;
+package ru.vishnyakov.designpattern.creational.builder;
 
 public class InformationRequiredException extends Exception {
     public InformationRequiredException(int requiredElements) {

@@ -1,4 +1,4 @@
-package ru.projects.vishnyakov.abstractfactory;
+package ru.vishnyakov.designpattern.creational.abstractfactory;
 
 public abstract class PhoneNumber {
     private String phoneNumber;

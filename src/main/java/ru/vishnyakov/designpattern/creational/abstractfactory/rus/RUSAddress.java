@@ -1,6 +1,6 @@
-package ru.projects.vishnyakov.abstractfactory.rus;
+package ru.vishnyakov.designpattern.creational.abstractfactory.rus;
 
-import ru.projects.vishnyakov.abstractfactory.Address;
+import ru.vishnyakov.designpattern.creational.abstractfactory.Address;
 
 public class RUSAddress extends Address {
     private static final String COUNTRY = "RUSSIA";

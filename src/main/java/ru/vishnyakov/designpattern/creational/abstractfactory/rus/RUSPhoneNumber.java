@@ -1,6 +1,6 @@
-package ru.projects.vishnyakov.abstractfactory.rus;
+package ru.vishnyakov.designpattern.creational.abstractfactory.rus;
 
-import ru.projects.vishnyakov.abstractfactory.PhoneNumber;
+import ru.vishnyakov.designpattern.creational.abstractfactory.PhoneNumber;
 
 public class RUSPhoneNumber extends PhoneNumber {
     private static final String COUNTRY_CODE = "13";

@@ -1,4 +1,4 @@
-package ru.projects.vishnyakov.abstractfactory;
+package ru.vishnyakov.designpattern.creational.abstractfactory;
 
 public abstract class Address {
     public static final String EOL_STRING = System.getProperty("line.separator");

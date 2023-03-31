@@ -1,6 +1,6 @@
-package ru.projects.vishnyakov.abstractfactory.usa;
+package ru.vishnyakov.designpattern.creational.abstractfactory.usa;
 
-import ru.projects.vishnyakov.abstractfactory.Address;
+import ru.vishnyakov.designpattern.creational.abstractfactory.Address;
 
 public class USAddress extends Address {
     private static final String COUNTRY = "UNITED STATES";

@@ -1,4 +1,4 @@
-package ru.projects.vishnyakov.builder;
+package ru.vishnyakov.designpattern.creational.builder;
 
 import java.util.Date;
 import java.util.List;
